@@ -1,6 +1,8 @@
 Dash Bash!
 ==========
 
+![screenshot](support/screenshot.jpg)
+
 Dash Bash! is a simple browser-based multiplayer 4-way ping pong game.
 
 Dash Bash! was built with Node.js and PhysicsJS on the backend and BabylonJS on the frontend.
