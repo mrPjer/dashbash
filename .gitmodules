@@ -1,6 +1,8 @@
 [submodule "dashbash-frontend"]
 	path = dashbash-frontend
 	url = ../dashbash-frontend
+	branch = master
 [submodule "dashbash-backend"]
 	path = dashbash-backend
 	url = ../dashbash-backend
+	branch = master
