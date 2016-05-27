@@ -1,0 +1,6 @@
+[submodule "dashbash-frontend"]
+	path = dashbash-frontend
+	url = ../dashbash-frontend
+[submodule "dashbash-backend"]
+	path = dashbash-backend
+	url = ../dashbash-backend
