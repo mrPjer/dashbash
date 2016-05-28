@@ -19,7 +19,7 @@ docker build -t dashbash .;
 docker run --rm -p 8080:8080 -p 3000:3000 dashbash;
 ```
 
-Open http://127.0.0.1:3000 in your browser and the game should open!
+Open http://127.0.0.1:3000 in your browser and the game should run!
 
 License
 -------
